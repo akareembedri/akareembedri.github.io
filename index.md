@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## ABDELKAREEM BEDRI (Kareem)
+
+I'm a PhD student at the Human Computer Interaction Institute in Carnegie Mellon University. I'm [Qualcomm](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship) and [KAAYIA](http://www.kaayia.jo) fellow.  I'm advised by Professor [Mayank Goel](http://www.mayankgoel.courses). My research interests are in activity recognition, wearable computing and mobile health.
+
 
 You can use the [editor on GitHub](https://github.com/akareembedri/akareembedri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
