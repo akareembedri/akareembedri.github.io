@@ -3,9 +3,12 @@ body {
     width: 70%;
 }
 
-img {
+img.one {
     border-radius: 8px;
+    height:25%;
+    width:25%
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
