@@ -1,2 +1,2 @@
 # akareembedri.github.io
-this is my website code
+This is my website code
