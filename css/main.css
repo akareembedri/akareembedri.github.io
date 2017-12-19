@@ -5,15 +5,10 @@ body {
 
 img {
     border-radius: 8px;
-    height:25%;
-    width:25%;
-}
-img.one {
-    border-radius: 8px;
-    height:35%;
-    width:25%;
     
+    width:25%;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
