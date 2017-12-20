@@ -5,8 +5,8 @@ body {
 
 img {
     border-radius: 8px;
-    
-    
+    width: 75%;
+    height:75%;
 }
 
 nav ul, footer ul {
